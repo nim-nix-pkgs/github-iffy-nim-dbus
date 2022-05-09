@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/iffy/nim-dbus",
   "refs": [
-    "fatal: unable to access 'https://github.com/iffy/nim-dbus/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/iffy/nim-dbus/': OpenSSL SSL_read: Connection reset by peer, errno 104",
     ""
   ],
   "heads": []
